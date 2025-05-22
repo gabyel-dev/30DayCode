@@ -1,7 +1,7 @@
 ## Week 1: Basics
-Day 1 – console.log(), comments
-Day 2 – Variables: let, const, var
-Day 3 – Data types: string, number, boolean
+Day 1 – console.log(), comments  <br>
+Day 2 – Variables: let, const, var <br>
+Day 3 – Data types: string, number, boolean <br>
 Day 4 – Operators: +, -, *, /, %
 Day 5 – String methods: .length, .toUpperCase()
 Day 6 – Numbers & Math: Math.round(), Math.random()
