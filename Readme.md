@@ -1,3 +1,5 @@
+### 10 mins a day code practice ###
+
 ## Week 1: Basics
 Day 1 – console.log(), comments  <br>
 Day 2 – Variables: let, const, var <br>
