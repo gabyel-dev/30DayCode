@@ -1,0 +1,15 @@
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\bin\Debug\net9.0\CSharpPrac.exe
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\bin\Debug\net9.0\CSharpPrac.deps.json
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\bin\Debug\net9.0\CSharpPrac.runtimeconfig.json
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\bin\Debug\net9.0\CSharpPrac.dll
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\bin\Debug\net9.0\CSharpPrac.pdb
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\obj\Debug\net9.0\CSharpPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\obj\Debug\net9.0\CSharpPrac.AssemblyInfoInputs.cache
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\obj\Debug\net9.0\CSharpPrac.AssemblyInfo.cs
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\obj\Debug\net9.0\CSharpPrac.csproj.CoreCompileInputs.cache
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\obj\Debug\net9.0\CSharpPrac.sourcelink.json
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\obj\Debug\net9.0\CSharpPrac.dll
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\obj\Debug\net9.0\refint\CSharpPrac.dll
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\obj\Debug\net9.0\CSharpPrac.pdb
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\obj\Debug\net9.0\CSharpPrac.genruntimeconfig.cache
+C:\Users\gabgu\Desktop\30DayCode\CSharpPrac\obj\Debug\net9.0\ref\CSharpPrac.dll
