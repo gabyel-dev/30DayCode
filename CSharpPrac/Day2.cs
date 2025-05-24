@@ -15,9 +15,11 @@ namespace VarDeclaration
             double moneyhave = 100.20;
             bool isTired = true;
             char grade = 'A';
+            object obj = new { Name = "Gab", Age = 20 };
 
             Console.WriteLine($"Hello! my name is {namee} im {age} and my hobbies are playing {hobbies[0]}, and i also love {hobbies[1]}");
             Console.WriteLine($"The total money i have now is {moneyhave}$ and if u ask me if im tired {isTired} but my Grade is {grade}");
+            Console.WriteLine(obj.ToString());
         }
     }
 }
